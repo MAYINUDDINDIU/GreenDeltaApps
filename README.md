@@ -1,4 +1,4 @@
 # GreenDeltaApps
 #Used Languange: JAVA
-# API MAKE: Larvel , MYSQL
+# API MAKE: Laravel , MYSQL
 # Recyclerview, Cardview, Volley Library
